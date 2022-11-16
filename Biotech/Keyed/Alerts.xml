@@ -2,13 +2,13 @@
 <LanguageData>
 
   <!-- EN: Uncontrolled mechs -->
-  <AlertMechLacksOverseer>TODO</AlertMechLacksOverseer>
+  <AlertMechLacksOverseer>無主機械族</AlertMechLacksOverseer>
   <!-- EN: One or more of your mechanoids is not controlled. Connect your mechanoids to a mechanitor with sufficient bandwidth to control them.\n\nIf left uncontrolled for more than a day, a mechanoid could go feral. When this happens they will join {0} and become hostile to you. If one mechanoid goes feral, it will bring other nearby mechanoids with it.\n\nFeral mechanoids cannot be resurrected at a gestator when killed. -->
-  <AlertMechLacksOverseerDesc>TODO</AlertMechLacksOverseerDesc>
+  <AlertMechLacksOverseerDesc>你的一或數台機械族目前無人控制。令頻寬足夠的御機使連結到無主機械族來控制它們。\n\n如果無人控制的時間超過一天，將可能變為野生機械族。在這種情況下，它們會加入{0}並對你產生敵意。如果一個械族變為野生的，它會帶來附近的其它機械族。\n\n野生機械族被殺死後不能在產生器中復活。</AlertMechLacksOverseerDesc>
   <!-- EN: The following mechanoids are uncontrolled -->
-  <AlertMechLacksOverseerUncontrolled>TODO</AlertMechLacksOverseerUncontrolled>
+  <AlertMechLacksOverseerUncontrolled>下列的機械族無人控制</AlertMechLacksOverseerUncontrolled>
   <!-- EN: The following mechanoids are uncontrolled and could go feral at any moment -->
-  <AlertMechLacksOverseerMayGoFeral>TODO</AlertMechLacksOverseerMayGoFeral>
+  <AlertMechLacksOverseerMayGoFeral>下列的機械目前無人控制，且隨時可能變為野生機械族</AlertMechLacksOverseerMayGoFeral>
 
   <!-- EN: {0} is low on resources -->
   <AlertWarqueenHasLowResources>TODO</AlertWarqueenHasLowResources>
@@ -16,9 +16,9 @@
   <AlertWarqueenHasLowResourcesDesc>TODO</AlertWarqueenHasLowResourcesDesc>
 
   <!-- EN: {PAWN} needs deathrest -->
-  <AlertLowDeathrestPawn>TODO</AlertLowDeathrestPawn>
+  <AlertLowDeathrestPawn>{PAWN}需要絕息</AlertLowDeathrestPawn>
   <!-- EN: {NUMCULPRITS} colonists need deathrest -->
-  <AlertLowDeathrestPawns>TODO</AlertLowDeathrestPawns>
+  <AlertLowDeathrestPawns>{NUMCULPRITS} 名殖民者需要絕息</AlertLowDeathrestPawns>
   <!-- EN: A colonist has not deathrested for a long time. If they go too long without deathrest, they will suffer from deathrest exhaustion.\n\nTo deathrest, select the colonist then right-click on their assigned bed or deathrest casket.\n\nThese people need deathrest:\n{CULPRITS} -->
   <AlertLowDeathrestDesc>TODO</AlertLowDeathrestDesc>
 
